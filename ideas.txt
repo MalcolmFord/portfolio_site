@@ -1,5 +1,0 @@
-1. When the page first loads the entire page should be covered with a black and white photo of me sitting at a 
-desk with my computer, and wearing a suit
-2. I want there to be a slide show of different photos of me doing coding stuff like writing on a white board
-or something else like that
-3. when the users scrols past the bottom of screen, the navbar show become fixed to the screen
