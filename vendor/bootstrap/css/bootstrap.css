@@ -143,8 +143,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  margin-top: 0;
   margin-bottom: 1rem;
+  color: white;
+  text-align: left;
 }
 
 abbr[title],
@@ -8378,6 +8379,6 @@ a.text-dark:focus, a.text-dark:hover {
 .pro-headshot-container{
   /* background-image: url("./img/professional-photo.jpg") */
 }
-#about{
-  background: linear-gradient(red, yellow);
+.my_coding_history{
+  color: rgb(255, 255, 255);
 }
